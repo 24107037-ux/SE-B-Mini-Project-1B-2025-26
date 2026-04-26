@@ -1,4 +1,4 @@
-# 📚 Group 12 - SE-B Mini Project
+# 📚 Group 13 - SE-B Mini Project
 
 ## 🏛️ CivicVoice - Public Complaint Registration Platform
 
